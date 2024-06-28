@@ -1,0 +1,9 @@
+C:\projects\personal\BinToIntelHex\BinToIntelHex\bin\Debug\BinToIntelHex.exe
+C:\projects\personal\BinToIntelHex\BinToIntelHex\bin\Debug\BinToIntelHex.pdb
+C:\projects\personal\BinToIntelHex\BinToIntelHex\obj\Debug\BinToIntelHex.csproj.AssemblyReference.cache
+C:\projects\personal\BinToIntelHex\BinToIntelHex\obj\Debug\BinToIntelHex.Form1.resources
+C:\projects\personal\BinToIntelHex\BinToIntelHex\obj\Debug\BinToIntelHex.Properties.Resources.resources
+C:\projects\personal\BinToIntelHex\BinToIntelHex\obj\Debug\BinToIntelHex.csproj.GenerateResource.cache
+C:\projects\personal\BinToIntelHex\BinToIntelHex\obj\Debug\BinToIntelHex.csproj.CoreCompileInputs.cache
+C:\projects\personal\BinToIntelHex\BinToIntelHex\obj\Debug\BinToIntelHex.exe
+C:\projects\personal\BinToIntelHex\BinToIntelHex\obj\Debug\BinToIntelHex.pdb
